@@ -1,0 +1,2 @@
+# RecursionError in Python Factorial Function
+This repository demonstrates a common error in recursive functions: the RecursionError caused by an improper base case.  The `factorial.py` file contains a factorial function with a flaw that leads to this error when called with a negative number. The solution file `factorialSolution.py` provides a corrected version.
